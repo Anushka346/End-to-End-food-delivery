@@ -1,0 +1,6 @@
+streamlit
+geopy
+scikit-learn
+xgboost
+
+
